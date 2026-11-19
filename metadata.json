@@ -1,0 +1,6 @@
+{
+  "name": "Dungeon Duel: Hero AI vs Monster AI",
+  "description": "Autonomous adversarial strategy simulator featuring Hero AI and Monster AI competing on a 10x10 dungeon grid with BFS, Minimax alpha-beta pruning, and MCTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
